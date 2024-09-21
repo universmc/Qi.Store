@@ -1,0 +1,92 @@
+{
+    "tasks": [
+      {
+        "title": "Présentation",
+        "start": "08:00",
+        "end": "09:30",
+        "subtasks": [
+          {
+            "title": "Définir les objectifs et les ambitions",
+            "time": "30 minutes"
+          },
+          {
+            "title": "Définir la structure économique",
+            "time": "45 minutes"
+          },
+          {
+            "title": "Définir la structure technique",
+            "time": "45 minutes"
+          }
+        ]
+      },
+      {
+        "title": "Étude d'impact",
+        "start": "09:45",
+        "end": "11:45",
+        "subtasks": [
+          {
+            "title": "Définir les constantes",
+            "time": "30 minutes"
+          },
+          {
+            "title": "Définir les variables ajustables",
+            "time": "30 minutes"
+          },
+          {
+            "title": "Analyse des impacts potentiels",
+            "time": "1 hour"
+          }
+        ]
+      },
+      {
+        "title": "Déjeuner",
+        "start": "12:00",
+        "end": "13:00"
+      },
+      {
+        "title": "Rédaction du rapport",
+        "start": "13:00",
+        "end": "15:00",
+        "subtasks": [
+          {
+            "title": "Compilation des informations",
+            "time": "1 hour"
+          },
+          {
+            "title": "Rédaction de l'introduction et de la conclusion",
+            "time": "30 minutes"
+          }
+        ]
+      },
+      {
+        "title": "Revue et édition",
+        "start": "15:00",
+        "end": "16:30",
+        "subtasks": [
+          {
+            "title": "Revue de la rédaction",
+            "time": "45 minutes"
+  },
+  {
+  "title": "Édition et mise en page",
+  "time": "45 minutes"
+  }
+  ]
+  },
+  {
+  "title": "Préparation de la présentation",
+  "start": "16:45",
+  "end": "18:00",
+  "subtasks": [
+  {
+  "title": "Création de diapositives",
+  "time": "45 minutes"
+  },
+  {
+  "title": "Répétition de la présentation",
+  "time": "30 minutes"
+  }
+  ]
+  }
+  ]
+  }

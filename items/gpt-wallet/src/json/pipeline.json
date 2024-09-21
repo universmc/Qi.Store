@@ -1,0 +1,179 @@
+[       
+    {
+    "titre": "GPT-WALLET Présentation",
+    "sousSections": [
+        {
+            "sousTitre": "CV numérique universel",
+            "contenu": "Présentation de l'agent IA le développement WEV."
+        },
+        {
+            "sousTitre": "Interface d'intelligence artificielle",
+            "contenuMarkdown": "src/md/intro.md"
+        },
+        {
+            "sousTitre": "MVP",
+            "contenuMarkdown": "src/md/MVP.md"
+        }
+    ]
+    },
+    {
+        "titre": "cv GPT-4o",
+        "sousSections": [
+            {
+                "sousTitre": "Déploiement et Maintenance",
+                "contenu": "Bonnes pratiques pour le déploiement et la maintenance des applications web."
+            },
+            {
+                "sousTitre": "Identitée Numérique",
+                "contenuMarkdown": "md/cours-devops.md"
+            },
+            {
+                "sousTitre": "Class Métier",
+                "contenuMarkdown": "md/cours-devops.md"
+            },
+            {
+                "sousTitre": "Compétence",
+                "contenuMarkdown": "md/cours-devops.md"
+            },
+            {
+                "sousTitre": "Expériennce",
+                "contenuMarkdown": "md/cours-devops.md"
+            }
+            
+        ]
+    },
+    {
+        "titre": "SmartContract",
+        "sousSections": [
+            {
+                "sousTitre": "UmcToken.sol",
+                "contenuMarkdown": "md/cours-frontend-html.md"
+            },
+            {
+                "sousTitre": "FairPayWithRU.sol",
+                "contenuMarkdown": "md/cours-frontend-css.md"
+            },
+            {
+                "sousTitre": "SASS",
+                "contenuMarkdown": "md/cours-frontend-sass.md"
+            }
+        ]
+    },
+    {
+        "titre": "Formations",
+        "sousSections": [
+            {
+                "sousTitre": "PHP",
+                "contenuMarkdown": "md/cours-backend-php.md"
+            },
+            {
+                "sousTitre": "SQL",
+                "contenuMarkdown": "md/cours-backend-sql.md"
+            },
+            {
+                "sousTitre": "nodejs",
+                "contenuMarkdown": "md/cours-backend-sql.md"
+            },
+            {
+                "sousTitre": "Python",
+                "contenu": "Scripting, analyse de données et intégration avec des frameworks web."
+            },
+            {
+                "sousTitre": "Node.js et Swagger",
+                "contenuMarkdown": "md/swagger.md"
+            },
+            {
+                "sousTitre": "JSON",
+                "contenuMarkdown": "md/cours-backend-json.md"
+            }
+        ]
+    },
+    {
+        "titre": "Projets",
+        "sousSections": [
+            {
+                "sousTitre": "Projets à court terme",
+                "contenu": "Présentation de l'agent IA Codex GPT pour le développement fullstack."
+            },            {
+                "sousTitre": "Projets à moyen therme",
+                "contenu": "Comment NeoFS peut aider dans la génération de code front-end et back-end."
+            },
+            {
+                "sousTitre": "Projets à long terme",
+                "contenuMarkdown": "md/cours-ia-prompt.md"
+            }
+        ]
+    },    
+    {
+        "titre": "Modèle econolmie circulaire",
+        "sousSections": [
+        {
+        "contenu": "techniques et methodes avancées pour construire des modèles De collecte décaissement de TVA donc de valeur ajoutée et taux financement",
+        "contenuMarkdown": "md/howto.md"
+        },
+        {
+            "contenu": "PIB / TVA",
+            "contenuMarkdown": "md/howto.md"
+        },
+        {
+            "contenu": "user CV",
+            "contenuMarkdown": "md/howto.md"
+        }
+    ]
+    },  
+    {
+        "titre": "Valeur Travail",
+        "sousSections": [
+            {
+                "sousTitre": "Présentation Structurée",
+                "contenu": "Organiser le contenu du cours de manière logique et intuitive."
+            },
+            {
+                "sousTitre": "PI.coin",
+                "contenu": "Création de projets intégrant front-end et back-end."
+            },
+            {
+                "sousTitre": "Gamifiction",
+                "contenu": "..."
+            },
+            {
+                "sousTitre": "Level 1 à 5",
+                "contenu": "Utilisation de l'IA pour optimiser et générer des éléments de code dans des projets réels."
+            },
+            {
+                "sousTitre": "Génération Dynamique du Sommaire",
+                "contenuMarkdown": "md/generation_dynamique_du_sommaire.md"
+            }
+        ]
+    },      
+    {
+        "titre": "Ressources",
+        "sousSections": [
+            {
+                "sousTitre": "Récapitulatif des Technologies et Concepts Clés",
+                "contenu": "..."
+            },
+            {
+                "sousTitre": "Ressources pour Approfondissement",
+                "contenu": "Livres, tutoriels en ligne, communautés de développement."
+            }
+        ]
+    },
+    {
+        "titre": "Conseils",
+        "sousSections": [
+            {
+                "sousTitre": "Interactivité avec l'IA",
+                "contenu": "Intégrer des démonstrations interactives où NeoFS génère des exemples de code en temps réel."
+            },
+            {
+                "sousTitre": "Projets Pratiques",
+                "contenu": "Encourager les étudiants à travailler sur des projets qui couvrent à la fois le front-end et le back-end, en utilisant les technologies apprises."
+            },
+            {
+                "sousTitre": "Feedback Continu",
+                "contenu": "Utiliser les retours des étudiants pour améliorer et adapter le contenu du cours."
+            }
+        ]
+    }
+]
