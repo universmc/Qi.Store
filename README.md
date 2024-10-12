@@ -1,3 +1,36 @@
+# Projet Qi.Store
+
+## Présentation du concept
+
+- Qi.Store est un magasin universel utilisant la crypto-monnaie Pi.coin.
+- Tout est vendu à 1 Pi.coin, assurant un système économique équitable.
+- Qi.Store est aussi un espace de partage de travail et de connaissances.
+- Un capital social ouvert est mis en place pour le financement (tokens "umcTokens").
+
+## Équipe et développement
+
+- Développeur chez Google avec expérience dans les applications et le développement logiciel.
+- Collaboration avec l'application "Ressources" et intégration de g.dev/univermc et Qi-Store.blogspot.com.
+- Entraînement d'un modèle GAN avec les données du projet et Tensorflow.js.
+
+## Objectifs
+
+- Créer un écosystème d'échange et de partage de travail basé sur Pi.coin.
+- Offrir une plateforme pour échanger tout type de biens et services.
+- Valoriser le travail et les compétences individuelles.
+- Promouvoir l'économie circulaire et l'innovation.
+
+## Liens
+
+- https://github.com/universmc/Qi.Store : dépôt GitHub pour le développement.
+- Qi-Store.blogspot.com : blog Shopify pour les actualités.
+- g.dev/univermc : page de présentation et de partage de connaissances.
+
+# Contact
+- MandatoryAi_bot : assistant AI pour la nocturne sur Telegram.
+
+
+
 Présentation du concept "Pi.coin - Valeur Travail"
 Nous sommes ravis de vous présenter Pi.coin, une plateforme innovante basée sur la blockchain qui combine les éléments suivants pour révolutionner la façon dont nous percevons la valeur du travail et des compétences :
 Pi.coin - Une cryptomonnaie stable et sécurisée servant de monnaie d'échange et de réserve de valeur pour les utilisateurs de la plateforme.
